@@ -9,3 +9,11 @@ p {
 .uppercase {
     text-transform: uppercase;
 }
+
+body {
+    background-color: darkorange;
+}
+
+.center {
+    text-align: center;
+}
