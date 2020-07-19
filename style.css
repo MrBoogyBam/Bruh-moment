@@ -1,3 +1,11 @@
 p {
     font-family: Arial;
 }
+
+.title {
+    color: black;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
